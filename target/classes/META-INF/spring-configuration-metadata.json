@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "com.revature.profiles.DBConfiguration",
+      "sourceType": "com.revature.profiles.DBConfiguration"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
